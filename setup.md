@@ -26,9 +26,9 @@ Next, we want to download a program that will let us read and edit our Python co
 print('Hello, World!')
 ```
 4. Save it (shortcut Ctrl+S for Windows, Cmd+S for Macs) in a new folder. This folder should:
-  a. not have any spaces in its name
-  b. be located in a local drive (i.e. not the share drive)
-  c. be named something memorable e.g. python101
+  * not have any spaces in its name
+  * be located in a local drive (i.e. not the share drive)
+  * be named something memorable e.g. python101
 5. Install the Python extension when prompted (see below), and feel free to dismiss any other notifications by clicking "Don't Show Again" (linting, git, etc.).  
 ![VS Code python extension](./static/img/vscode_1.png)  
 6. Click Reload on the left:  
