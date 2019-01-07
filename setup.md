@@ -4,16 +4,15 @@
 First you need to make sure you have the Python programming language on your computer!
 
 ### Windows
-1. Go to [https://www.python.org/downloads/release/python-370/](https://www.python.org/downloads/release/python-370/)
+1. Go to [https://www.python.org/downloads/release/python-372/](https://www.python.org/downloads/release/python-372/)
 2. Click the link for "Windows x86-64 executable installer" and run the downloaded file
-3. Follow the installation instructions but make sure to select the “Add python.exe to Path” option:  
-![Python Windows](./static/img/python_windows.png)  
+3. Follow the installation instructions!
 4. Restart your computer
 
 ### Mac OSX
 1. Open a program called Terminal
 2. Type in “python3” and press Enter – it should look like this:  
-![Python Mac](./static/img/python_mac.png)  
+![Python Mac](./static/img/python_mac.png)
 3. If this is not the case, please follow the Windows instructions but click the link for "macOS 64-bit installer"
 
 ## Editor Setup
